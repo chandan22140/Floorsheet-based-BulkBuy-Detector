@@ -22,7 +22,7 @@ This Python script scrapes data from the Nepal Stock Exchange website to extract
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/chandan22140/Institutional-Buy-Detector
+    git clone [https://github.com/chandan22140/Floorsheet-based-BulkBuy-Detector](https://github.com/chandan22140/Floorsheet-based-BulkBuy-Detector)
     ```
 
 2. Install dependencies:
@@ -56,5 +56,6 @@ Chandan Sah
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 
