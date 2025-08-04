@@ -1,5 +1,5 @@
 
-# Institutional Buy Detector
+# Floorsheet-based-BulkBuy-Detector
 
 This Python script scrapes data from the Nepal Stock Exchange website to extract floor sheet data and perform analysis on it to detect institutional buying of stocks in the Nepalese share market.
 
@@ -56,4 +56,5 @@ Chandan Sah
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
